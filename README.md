@@ -1,2 +1,2 @@
 # it-word-product-manage
-老马记单词产品管理
+AI记单词产品管理
